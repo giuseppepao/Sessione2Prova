@@ -1,0 +1,25 @@
+Name: Model
+Id: g=9ac084721292f475474211d4d431ea38
+Type: ModelCategoryFolder
+Children:
+- Name: Variable1
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Variable2
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Variable3
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: FROM
+  Type: BaseDataVariableType
+  DataType: DateTime
+  Value: "1601-01-01T00:00:00.0000000"
+- Name: TO
+  Type: BaseDataVariableType
+  DataType: DateTime
+  Value: "1601-01-01T00:00:00.0000000"
+- File: Ricetta/Ricetta.yaml
